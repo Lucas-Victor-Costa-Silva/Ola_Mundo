@@ -1,3 +1,3 @@
 # Olá, Mundo!
- Primeiro repositório do curso Git Github,
-Repositório criado durante uma do curso.
+ Primeiro repositório do curso Git Github<br>
+Repositório criado durante uma  aula do curso.
